@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace BlogUi
 {
+
+    //test comment 2
+
     public class Program
     {
         public static void Main(string[] args)
